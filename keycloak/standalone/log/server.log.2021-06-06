@@ -1,0 +1,244 @@
+2021-06-06 21:05:17,169 WARN  [org.keycloak.events] (default task-120) type=LOGIN_ERROR, realmId=pegawai, clientId=sign.e-office.mojokertokab.go.id, userId=null, ipAddress=192.168.2.138, error=user_not_found, auth_method=openid-connect, auth_type=code, redirect_uri=http://sign.e-office.mojokertokab.go.id/callback, code_id=94b4f8e6-098e-4a0a-bc0a-121ed8093668, username=19661011999012001, authSessionParentId=94b4f8e6-098e-4a0a-bc0a-121ed8093668, authSessionTabId=3SAJls-zWW0
+2021-06-06 21:05:52,673 WARN  [org.keycloak.events] (default task-120) type=LOGIN_ERROR, realmId=pegawai, clientId=sign.e-office.mojokertokab.go.id, userId=null, ipAddress=192.168.2.138, error=user_not_found, auth_method=openid-connect, auth_type=code, redirect_uri=http://sign.e-office.mojokertokab.go.id/callback, code_id=94b4f8e6-098e-4a0a-bc0a-121ed8093668, username=19661011999012001, authSessionParentId=94b4f8e6-098e-4a0a-bc0a-121ed8093668, authSessionTabId=3SAJls-zWW0
+2021-06-06 21:05:59,236 WARN  [org.keycloak.events] (default task-120) type=LOGIN_ERROR, realmId=pegawai, clientId=sign.e-office.mojokertokab.go.id, userId=null, ipAddress=192.168.2.138, error=user_not_found, auth_method=openid-connect, auth_type=code, redirect_uri=http://sign.e-office.mojokertokab.go.id/callback, code_id=94b4f8e6-098e-4a0a-bc0a-121ed8093668, username=19661011999012001, authSessionParentId=94b4f8e6-098e-4a0a-bc0a-121ed8093668, authSessionTabId=3SAJls-zWW0
+2021-06-06 21:06:02,148 WARN  [org.keycloak.events] (default task-120) type=LOGIN_ERROR, realmId=pegawai, clientId=sign.e-office.mojokertokab.go.id, userId=29b134d3-8d6a-498f-b6f6-8281ab1fb60a, ipAddress=192.168.2.138, error=invalid_user_credentials, auth_method=openid-connect, auth_type=code, redirect_uri=http://sign.e-office.mojokertokab.go.id/callback, code_id=02442d3a-b618-440e-811f-099306840939, username=196602121985101001, authSessionParentId=02442d3a-b618-440e-811f-099306840939, authSessionTabId=1Iwef38x3pc
+2021-06-06 21:06:35,174 WARN  [org.keycloak.events] (default task-120) type=LOGIN_ERROR, realmId=pegawai, clientId=sign.e-office.mojokertokab.go.id, userId=null, ipAddress=192.168.2.138, error=user_not_found, auth_method=openid-connect, auth_type=code, redirect_uri=http://sign.e-office.mojokertokab.go.id/callback, code_id=94b4f8e6-098e-4a0a-bc0a-121ed8093668, username=19661011999012001, authSessionParentId=94b4f8e6-098e-4a0a-bc0a-121ed8093668, authSessionTabId=3SAJls-zWW0
+2021-06-06 21:07:58,803 WARN  [org.keycloak.events] (default task-120) type=LOGIN_ERROR, realmId=pegawai, clientId=sign.e-office.mojokertokab.go.id, userId=33bc9caf-a221-4d0a-b7e6-75a36c531299, ipAddress=192.168.2.138, error=invalid_user_credentials, auth_method=openid-connect, auth_type=code, redirect_uri=http://sign.e-office.mojokertokab.go.id/callback, code_id=94b4f8e6-098e-4a0a-bc0a-121ed8093668, username=196610011999012001, authSessionParentId=94b4f8e6-098e-4a0a-bc0a-121ed8093668, authSessionTabId=3SAJls-zWW0
+2021-06-06 21:08:37,481 WARN  [org.keycloak.events] (default task-120) type=LOGIN_ERROR, realmId=pegawai, clientId=sign.e-office.mojokertokab.go.id, userId=33bc9caf-a221-4d0a-b7e6-75a36c531299, ipAddress=192.168.2.138, error=invalid_user_credentials, auth_method=openid-connect, auth_type=code, redirect_uri=http://sign.e-office.mojokertokab.go.id/callback, code_id=94b4f8e6-098e-4a0a-bc0a-121ed8093668, username=196610011999012001, authSessionParentId=94b4f8e6-098e-4a0a-bc0a-121ed8093668, authSessionTabId=3SAJls-zWW0
+2021-06-06 21:37:05,962 WARN  [org.apache.jcp.xml.dsig.internal.dom.DOMReference] (default task-129) The input bytes to the digest operation are null. This may be due to a problem with the Reference URI or its Transforms.
+2021-06-06 21:39:02,671 WARN  [org.apache.jcp.xml.dsig.internal.dom.DOMReference] (default task-129) The input bytes to the digest operation are null. This may be due to a problem with the Reference URI or its Transforms.
+2021-06-06 21:39:12,182 WARN  [org.apache.jcp.xml.dsig.internal.dom.DOMReference] (default task-129) The input bytes to the digest operation are null. This may be due to a problem with the Reference URI or its Transforms.
+2021-06-06 21:39:22,244 WARN  [org.apache.jcp.xml.dsig.internal.dom.DOMReference] (default task-129) The input bytes to the digest operation are null. This may be due to a problem with the Reference URI or its Transforms.
+2021-06-06 21:39:25,634 WARN  [org.apache.jcp.xml.dsig.internal.dom.DOMReference] (default task-129) The input bytes to the digest operation are null. This may be due to a problem with the Reference URI or its Transforms.
+2021-06-06 21:39:47,568 WARN  [org.keycloak.services.managers.AuthenticationManager] (default task-132) Some clients have been not been logged out for user pengguna1 in pegawai realm: https://helpdesk.diskominfo.mojokertokab.go.id/auth/saml/metadata
+2021-06-06 21:39:47,569 WARN  [org.keycloak.services.managers.AuthenticationManager] (default task-132) Some clients have been not been logged out for user pengguna1 in pegawai realm: https://helpdesk.diskominfo.mojokertokab.go.id/auth/saml/metadata
+2021-06-06 21:40:24,820 WARN  [org.apache.jcp.xml.dsig.internal.dom.DOMReference] (default task-132) The input bytes to the digest operation are null. This may be due to a problem with the Reference URI or its Transforms.
+2021-06-06 21:42:14,032 WARN  [org.apache.jcp.xml.dsig.internal.dom.DOMReference] (default task-133) The input bytes to the digest operation are null. This may be due to a problem with the Reference URI or its Transforms.
+2021-06-06 21:43:52,052 WARN  [org.apache.jcp.xml.dsig.internal.dom.DOMReference] (default task-133) The input bytes to the digest operation are null. This may be due to a problem with the Reference URI or its Transforms.
+2021-06-06 21:46:10,553 WARN  [org.keycloak.events] (default task-134) type=LOGIN_ERROR, realmId=pegawai, clientId=https://helpdesk.diskominfo.mojokertokab.go.id/auth/saml/metadata, userId=ed02bce2-fb74-4308-8c4c-3ef5c8e8d991, ipAddress=192.168.2.138, error=invalid_user_credentials, auth_method=saml, redirect_uri=https://helpdesk.diskominfo.mojokertokab.go.id/auth/saml/callback, code_id=3f8009b9-9b17-484d-90f1-f1471a69a89f, username=pengguna1, authSessionParentId=3f8009b9-9b17-484d-90f1-f1471a69a89f, authSessionTabId=judIFmc4NUY
+2021-06-06 21:46:14,563 WARN  [org.apache.jcp.xml.dsig.internal.dom.DOMReference] (default task-134) The input bytes to the digest operation are null. This may be due to a problem with the Reference URI or its Transforms.
+2021-06-06 21:46:21,488 WARN  [org.apache.jcp.xml.dsig.internal.dom.DOMReference] (default task-134) The input bytes to the digest operation are null. This may be due to a problem with the Reference URI or its Transforms.
+2021-06-06 21:46:31,828 WARN  [org.apache.jcp.xml.dsig.internal.dom.DOMReference] (default task-134) The input bytes to the digest operation are null. This may be due to a problem with the Reference URI or its Transforms.
+2021-06-06 21:56:13,242 WARN  [org.apache.jcp.xml.dsig.internal.dom.DOMReference] (default task-136) The input bytes to the digest operation are null. This may be due to a problem with the Reference URI or its Transforms.
+2021-06-06 21:56:18,400 WARN  [org.apache.jcp.xml.dsig.internal.dom.DOMReference] (default task-136) The input bytes to the digest operation are null. This may be due to a problem with the Reference URI or its Transforms.
+2021-06-06 22:03:40,170 WARN  [org.apache.jcp.xml.dsig.internal.dom.DOMReference] (default task-137) The input bytes to the digest operation are null. This may be due to a problem with the Reference URI or its Transforms.
+2021-06-06 22:03:40,532 WARN  [org.keycloak.events] (default task-137) type=LOGIN_ERROR, realmId=pegawai, clientId=sign.e-office.mojokertokab.go.id, userId=cd2dd722-033f-49c5-a1ba-69ccf08d6737, ipAddress=192.168.2.138, error=invalid_user_credentials, auth_method=openid-connect, auth_type=code, redirect_uri=http://sign.e-office.mojokertokab.go.id/callback, code_id=d223359a-c320-4247-a071-63fd3f54bc3c, username=197009271991011002, authSessionParentId=d223359a-c320-4247-a071-63fd3f54bc3c, authSessionTabId=OveNyz2Xd2w
+2021-06-06 22:03:47,935 WARN  [org.apache.jcp.xml.dsig.internal.dom.DOMReference] (default task-137) The input bytes to the digest operation are null. This may be due to a problem with the Reference URI or its Transforms.
+2021-06-06 22:05:22,315 WARN  [org.keycloak.services] (default task-139) KC-SERVICES0013: Failed authentication: org.keycloak.authentication.AuthenticationFlowException: Not found serialized context in clientSession
+	at org.keycloak.authentication.authenticators.broker.AbstractIdpAuthenticator.authenticate(AbstractIdpAuthenticator.java:68)
+	at org.keycloak.authentication.DefaultAuthenticationFlow.processSingleFlowExecutionModel(DefaultAuthenticationFlow.java:446)
+	at org.keycloak.authentication.DefaultAuthenticationFlow.processFlow(DefaultAuthenticationFlow.java:253)
+	at org.keycloak.authentication.AuthenticationProcessor.authenticateOnly(AuthenticationProcessor.java:990)
+	at org.keycloak.authentication.AuthenticationProcessor.authenticate(AuthenticationProcessor.java:852)
+	at org.keycloak.protocol.AuthorizationEndpointBase.handleBrowserAuthenticationRequest(AuthorizationEndpointBase.java:151)
+	at org.keycloak.protocol.saml.SamlService.newBrowserAuthentication(SamlService.java:797)
+	at org.keycloak.protocol.saml.SamlService.newBrowserAuthentication(SamlService.java:793)
+	at org.keycloak.protocol.saml.SamlService$BindingProtocol.loginRequest(SamlService.java:502)
+	at org.keycloak.protocol.saml.SamlService$BindingProtocol.handleSamlRequest(SamlService.java:320)
+	at org.keycloak.protocol.saml.SamlService$BindingProtocol.execute(SamlService.java:688)
+	at org.keycloak.protocol.saml.SamlService.redirectBinding(SamlService.java:815)
+	at sun.reflect.GeneratedMethodAccessor832.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.jboss.resteasy.core.MethodInjectorImpl.invoke(MethodInjectorImpl.java:138)
+	at org.jboss.resteasy.core.ResourceMethodInvoker.internalInvokeOnTarget(ResourceMethodInvoker.java:546)
+	at org.jboss.resteasy.core.ResourceMethodInvoker.invokeOnTargetAfterFilter(ResourceMethodInvoker.java:435)
+	at org.jboss.resteasy.core.ResourceMethodInvoker.lambda$invokeOnTarget$0(ResourceMethodInvoker.java:396)
+	at org.jboss.resteasy.core.interception.PreMatchContainerRequestContext.filter(PreMatchContainerRequestContext.java:358)
+	at org.jboss.resteasy.core.ResourceMethodInvoker.invokeOnTarget(ResourceMethodInvoker.java:398)
+	at org.jboss.resteasy.core.ResourceMethodInvoker.invoke(ResourceMethodInvoker.java:365)
+	at org.jboss.resteasy.core.ResourceLocatorInvoker.invokeOnTargetObject(ResourceLocatorInvoker.java:150)
+	at org.jboss.resteasy.core.ResourceLocatorInvoker.invoke(ResourceLocatorInvoker.java:104)
+	at org.jboss.resteasy.core.SynchronousDispatcher.invoke(SynchronousDispatcher.java:440)
+	at org.jboss.resteasy.core.SynchronousDispatcher.lambda$invoke$4(SynchronousDispatcher.java:229)
+	at org.jboss.resteasy.core.SynchronousDispatcher.lambda$preprocess$0(SynchronousDispatcher.java:135)
+	at org.jboss.resteasy.core.interception.PreMatchContainerRequestContext.filter(PreMatchContainerRequestContext.java:358)
+	at org.jboss.resteasy.core.SynchronousDispatcher.preprocess(SynchronousDispatcher.java:138)
+	at org.jboss.resteasy.core.SynchronousDispatcher.invoke(SynchronousDispatcher.java:215)
+	at org.jboss.resteasy.plugins.server.servlet.ServletContainerDispatcher.service(ServletContainerDispatcher.java:245)
+	at org.jboss.resteasy.plugins.server.servlet.HttpServletDispatcher.service(HttpServletDispatcher.java:61)
+	at org.jboss.resteasy.plugins.server.servlet.HttpServletDispatcher.service(HttpServletDispatcher.java:56)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:590)
+	at io.undertow.servlet.handlers.ServletHandler.handleRequest(ServletHandler.java:74)
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:129)
+	at org.keycloak.provider.wildfly.WildFlyRequestFilter.lambda$doFilter$0(WildFlyRequestFilter.java:41)
+	at org.keycloak.services.filters.AbstractRequestFilter.filter(AbstractRequestFilter.java:43)
+	at org.keycloak.provider.wildfly.WildFlyRequestFilter.doFilter(WildFlyRequestFilter.java:39)
+	at io.undertow.servlet.core.ManagedFilter.doFilter(ManagedFilter.java:61)
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:131)
+	at io.undertow.servlet.handlers.FilterHandler.handleRequest(FilterHandler.java:84)
+	at io.undertow.servlet.handlers.security.ServletSecurityRoleHandler.handleRequest(ServletSecurityRoleHandler.java:62)
+	at io.undertow.servlet.handlers.ServletChain$1.handleRequest(ServletChain.java:68)
+	at io.undertow.servlet.handlers.ServletDispatchingHandler.handleRequest(ServletDispatchingHandler.java:36)
+	at org.wildfly.extension.undertow.security.SecurityContextAssociationHandler.handleRequest(SecurityContextAssociationHandler.java:78)
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at io.undertow.servlet.handlers.RedirectDirHandler.handleRequest(RedirectDirHandler.java:68)
+	at io.undertow.servlet.handlers.security.SSLInformationAssociationHandler.handleRequest(SSLInformationAssociationHandler.java:117)
+	at io.undertow.servlet.handlers.security.ServletAuthenticationCallHandler.handleRequest(ServletAuthenticationCallHandler.java:57)
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at io.undertow.security.handlers.AbstractConfidentialityHandler.handleRequest(AbstractConfidentialityHandler.java:46)
+	at io.undertow.servlet.handlers.security.ServletConfidentialityConstraintHandler.handleRequest(ServletConfidentialityConstraintHandler.java:64)
+	at io.undertow.security.handlers.AuthenticationMechanismsHandler.handleRequest(AuthenticationMechanismsHandler.java:60)
+	at io.undertow.servlet.handlers.security.CachedAuthenticatedSessionHandler.handleRequest(CachedAuthenticatedSessionHandler.java:77)
+	at io.undertow.security.handlers.NotificationReceiverHandler.handleRequest(NotificationReceiverHandler.java:50)
+	at io.undertow.security.handlers.AbstractSecurityContextAssociationHandler.handleRequest(AbstractSecurityContextAssociationHandler.java:43)
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at org.wildfly.extension.undertow.security.jacc.JACCContextIdHandler.handleRequest(JACCContextIdHandler.java:61)
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at org.wildfly.extension.undertow.deployment.GlobalRequestControllerHandler.handleRequest(GlobalRequestControllerHandler.java:68)
+	at io.undertow.servlet.handlers.SendErrorPageHandler.handleRequest(SendErrorPageHandler.java:52)
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at io.undertow.servlet.handlers.ServletInitialHandler.handleFirstRequest(ServletInitialHandler.java:269)
+	at io.undertow.servlet.handlers.ServletInitialHandler.access$100(ServletInitialHandler.java:78)
+	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:133)
+	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:130)
+	at io.undertow.servlet.core.ServletRequestContextThreadSetupAction$1.call(ServletRequestContextThreadSetupAction.java:48)
+	at io.undertow.servlet.core.ContextClassLoaderSetupAction$1.call(ContextClassLoaderSetupAction.java:43)
+	at org.wildfly.extension.undertow.security.SecurityContextThreadSetupAction.lambda$create$0(SecurityContextThreadSetupAction.java:105)
+	at org.wildfly.extension.undertow.deployment.UndertowDeploymentInfoService$UndertowThreadSetupAction.lambda$create$0(UndertowDeploymentInfoService.java:1530)
+	at org.wildfly.extension.undertow.deployment.UndertowDeploymentInfoService$UndertowThreadSetupAction.lambda$create$0(UndertowDeploymentInfoService.java:1530)
+	at org.wildfly.extension.undertow.deployment.UndertowDeploymentInfoService$UndertowThreadSetupAction.lambda$create$0(UndertowDeploymentInfoService.java:1530)
+	at org.wildfly.extension.undertow.deployment.UndertowDeploymentInfoService$UndertowThreadSetupAction.lambda$create$0(UndertowDeploymentInfoService.java:1530)
+	at io.undertow.servlet.handlers.ServletInitialHandler.dispatchRequest(ServletInitialHandler.java:249)
+	at io.undertow.servlet.handlers.ServletInitialHandler.access$000(ServletInitialHandler.java:78)
+	at io.undertow.servlet.handlers.ServletInitialHandler$1.handleRequest(ServletInitialHandler.java:99)
+	at io.undertow.server.Connectors.executeRootHandler(Connectors.java:387)
+	at io.undertow.server.HttpServerExchange$1.run(HttpServerExchange.java:841)
+	at org.jboss.threads.ContextClassLoaderSavingRunnable.run(ContextClassLoaderSavingRunnable.java:35)
+	at org.jboss.threads.EnhancedQueueExecutor.safeRun(EnhancedQueueExecutor.java:1990)
+	at org.jboss.threads.EnhancedQueueExecutor$ThreadBody.doRunTask(EnhancedQueueExecutor.java:1486)
+	at org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1377)
+	at org.xnio.XnioWorker$WorkerThreadFactory$1$1.run(XnioWorker.java:1280)
+	at java.lang.Thread.run(Thread.java:748)
+
+2021-06-06 22:05:22,333 WARN  [org.keycloak.events] (default task-139) type=LOGIN_ERROR, realmId=pegawai, clientId=https://helpdesk.diskominfo.mojokertokab.go.id/auth/saml/metadata, userId=null, ipAddress=192.168.2.138, error=invalid_user_credentials, auth_method=saml, redirect_uri=https://helpdesk.diskominfo.mojokertokab.go.id/auth/saml/callback, code_id=3f8009b9-9b17-484d-90f1-f1471a69a89f, authSessionParentId=3f8009b9-9b17-484d-90f1-f1471a69a89f, authSessionTabId=HtQJGSbD-Mc
+2021-06-06 22:05:28,636 WARN  [org.keycloak.services] (default task-139) KC-SERVICES0013: Failed authentication: org.keycloak.authentication.AuthenticationFlowException: Not found serialized context in clientSession
+	at org.keycloak.authentication.authenticators.broker.AbstractIdpAuthenticator.authenticate(AbstractIdpAuthenticator.java:68)
+	at org.keycloak.authentication.DefaultAuthenticationFlow.processSingleFlowExecutionModel(DefaultAuthenticationFlow.java:446)
+	at org.keycloak.authentication.DefaultAuthenticationFlow.processFlow(DefaultAuthenticationFlow.java:253)
+	at org.keycloak.authentication.AuthenticationProcessor.authenticateOnly(AuthenticationProcessor.java:990)
+	at org.keycloak.authentication.AuthenticationProcessor.authenticate(AuthenticationProcessor.java:852)
+	at org.keycloak.protocol.AuthorizationEndpointBase.handleBrowserAuthenticationRequest(AuthorizationEndpointBase.java:151)
+	at org.keycloak.protocol.saml.SamlService.newBrowserAuthentication(SamlService.java:797)
+	at org.keycloak.protocol.saml.SamlService.newBrowserAuthentication(SamlService.java:793)
+	at org.keycloak.protocol.saml.SamlService$BindingProtocol.loginRequest(SamlService.java:502)
+	at org.keycloak.protocol.saml.SamlService$BindingProtocol.handleSamlRequest(SamlService.java:320)
+	at org.keycloak.protocol.saml.SamlService$BindingProtocol.execute(SamlService.java:688)
+	at org.keycloak.protocol.saml.SamlService.redirectBinding(SamlService.java:815)
+	at sun.reflect.GeneratedMethodAccessor832.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.jboss.resteasy.core.MethodInjectorImpl.invoke(MethodInjectorImpl.java:138)
+	at org.jboss.resteasy.core.ResourceMethodInvoker.internalInvokeOnTarget(ResourceMethodInvoker.java:546)
+	at org.jboss.resteasy.core.ResourceMethodInvoker.invokeOnTargetAfterFilter(ResourceMethodInvoker.java:435)
+	at org.jboss.resteasy.core.ResourceMethodInvoker.lambda$invokeOnTarget$0(ResourceMethodInvoker.java:396)
+	at org.jboss.resteasy.core.interception.PreMatchContainerRequestContext.filter(PreMatchContainerRequestContext.java:358)
+	at org.jboss.resteasy.core.ResourceMethodInvoker.invokeOnTarget(ResourceMethodInvoker.java:398)
+	at org.jboss.resteasy.core.ResourceMethodInvoker.invoke(ResourceMethodInvoker.java:365)
+	at org.jboss.resteasy.core.ResourceLocatorInvoker.invokeOnTargetObject(ResourceLocatorInvoker.java:150)
+	at org.jboss.resteasy.core.ResourceLocatorInvoker.invoke(ResourceLocatorInvoker.java:104)
+	at org.jboss.resteasy.core.SynchronousDispatcher.invoke(SynchronousDispatcher.java:440)
+	at org.jboss.resteasy.core.SynchronousDispatcher.lambda$invoke$4(SynchronousDispatcher.java:229)
+	at org.jboss.resteasy.core.SynchronousDispatcher.lambda$preprocess$0(SynchronousDispatcher.java:135)
+	at org.jboss.resteasy.core.interception.PreMatchContainerRequestContext.filter(PreMatchContainerRequestContext.java:358)
+	at org.jboss.resteasy.core.SynchronousDispatcher.preprocess(SynchronousDispatcher.java:138)
+	at org.jboss.resteasy.core.SynchronousDispatcher.invoke(SynchronousDispatcher.java:215)
+	at org.jboss.resteasy.plugins.server.servlet.ServletContainerDispatcher.service(ServletContainerDispatcher.java:245)
+	at org.jboss.resteasy.plugins.server.servlet.HttpServletDispatcher.service(HttpServletDispatcher.java:61)
+	at org.jboss.resteasy.plugins.server.servlet.HttpServletDispatcher.service(HttpServletDispatcher.java:56)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:590)
+	at io.undertow.servlet.handlers.ServletHandler.handleRequest(ServletHandler.java:74)
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:129)
+	at org.keycloak.provider.wildfly.WildFlyRequestFilter.lambda$doFilter$0(WildFlyRequestFilter.java:41)
+	at org.keycloak.services.filters.AbstractRequestFilter.filter(AbstractRequestFilter.java:43)
+	at org.keycloak.provider.wildfly.WildFlyRequestFilter.doFilter(WildFlyRequestFilter.java:39)
+	at io.undertow.servlet.core.ManagedFilter.doFilter(ManagedFilter.java:61)
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:131)
+	at io.undertow.servlet.handlers.FilterHandler.handleRequest(FilterHandler.java:84)
+	at io.undertow.servlet.handlers.security.ServletSecurityRoleHandler.handleRequest(ServletSecurityRoleHandler.java:62)
+	at io.undertow.servlet.handlers.ServletChain$1.handleRequest(ServletChain.java:68)
+	at io.undertow.servlet.handlers.ServletDispatchingHandler.handleRequest(ServletDispatchingHandler.java:36)
+	at org.wildfly.extension.undertow.security.SecurityContextAssociationHandler.handleRequest(SecurityContextAssociationHandler.java:78)
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at io.undertow.servlet.handlers.RedirectDirHandler.handleRequest(RedirectDirHandler.java:68)
+	at io.undertow.servlet.handlers.security.SSLInformationAssociationHandler.handleRequest(SSLInformationAssociationHandler.java:117)
+	at io.undertow.servlet.handlers.security.ServletAuthenticationCallHandler.handleRequest(ServletAuthenticationCallHandler.java:57)
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at io.undertow.security.handlers.AbstractConfidentialityHandler.handleRequest(AbstractConfidentialityHandler.java:46)
+	at io.undertow.servlet.handlers.security.ServletConfidentialityConstraintHandler.handleRequest(ServletConfidentialityConstraintHandler.java:64)
+	at io.undertow.security.handlers.AuthenticationMechanismsHandler.handleRequest(AuthenticationMechanismsHandler.java:60)
+	at io.undertow.servlet.handlers.security.CachedAuthenticatedSessionHandler.handleRequest(CachedAuthenticatedSessionHandler.java:77)
+	at io.undertow.security.handlers.NotificationReceiverHandler.handleRequest(NotificationReceiverHandler.java:50)
+	at io.undertow.security.handlers.AbstractSecurityContextAssociationHandler.handleRequest(AbstractSecurityContextAssociationHandler.java:43)
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at org.wildfly.extension.undertow.security.jacc.JACCContextIdHandler.handleRequest(JACCContextIdHandler.java:61)
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at org.wildfly.extension.undertow.deployment.GlobalRequestControllerHandler.handleRequest(GlobalRequestControllerHandler.java:68)
+	at io.undertow.servlet.handlers.SendErrorPageHandler.handleRequest(SendErrorPageHandler.java:52)
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at io.undertow.servlet.handlers.ServletInitialHandler.handleFirstRequest(ServletInitialHandler.java:269)
+	at io.undertow.servlet.handlers.ServletInitialHandler.access$100(ServletInitialHandler.java:78)
+	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:133)
+	at io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:130)
+	at io.undertow.servlet.core.ServletRequestContextThreadSetupAction$1.call(ServletRequestContextThreadSetupAction.java:48)
+	at io.undertow.servlet.core.ContextClassLoaderSetupAction$1.call(ContextClassLoaderSetupAction.java:43)
+	at org.wildfly.extension.undertow.security.SecurityContextThreadSetupAction.lambda$create$0(SecurityContextThreadSetupAction.java:105)
+	at org.wildfly.extension.undertow.deployment.UndertowDeploymentInfoService$UndertowThreadSetupAction.lambda$create$0(UndertowDeploymentInfoService.java:1530)
+	at org.wildfly.extension.undertow.deployment.UndertowDeploymentInfoService$UndertowThreadSetupAction.lambda$create$0(UndertowDeploymentInfoService.java:1530)
+	at org.wildfly.extension.undertow.deployment.UndertowDeploymentInfoService$UndertowThreadSetupAction.lambda$create$0(UndertowDeploymentInfoService.java:1530)
+	at org.wildfly.extension.undertow.deployment.UndertowDeploymentInfoService$UndertowThreadSetupAction.lambda$create$0(UndertowDeploymentInfoService.java:1530)
+	at io.undertow.servlet.handlers.ServletInitialHandler.dispatchRequest(ServletInitialHandler.java:249)
+	at io.undertow.servlet.handlers.ServletInitialHandler.access$000(ServletInitialHandler.java:78)
+	at io.undertow.servlet.handlers.ServletInitialHandler$1.handleRequest(ServletInitialHandler.java:99)
+	at io.undertow.server.Connectors.executeRootHandler(Connectors.java:387)
+	at io.undertow.server.HttpServerExchange$1.run(HttpServerExchange.java:841)
+	at org.jboss.threads.ContextClassLoaderSavingRunnable.run(ContextClassLoaderSavingRunnable.java:35)
+	at org.jboss.threads.EnhancedQueueExecutor.safeRun(EnhancedQueueExecutor.java:1990)
+	at org.jboss.threads.EnhancedQueueExecutor$ThreadBody.doRunTask(EnhancedQueueExecutor.java:1486)
+	at org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1377)
+	at org.xnio.XnioWorker$WorkerThreadFactory$1$1.run(XnioWorker.java:1280)
+	at java.lang.Thread.run(Thread.java:748)
+
+2021-06-06 22:05:28,637 WARN  [org.keycloak.events] (default task-139) type=LOGIN_ERROR, realmId=pegawai, clientId=https://helpdesk.diskominfo.mojokertokab.go.id/auth/saml/metadata, userId=null, ipAddress=192.168.2.138, error=invalid_user_credentials, auth_method=saml, redirect_uri=https://helpdesk.diskominfo.mojokertokab.go.id/auth/saml/callback, code_id=3f8009b9-9b17-484d-90f1-f1471a69a89f, authSessionParentId=3f8009b9-9b17-484d-90f1-f1471a69a89f, authSessionTabId=Hu_nj-V-vAk
+2021-06-06 22:05:42,648 WARN  [org.apache.jcp.xml.dsig.internal.dom.DOMReference] (default task-135) The input bytes to the digest operation are null. This may be due to a problem with the Reference URI or its Transforms.
+2021-06-06 22:05:47,059 WARN  [org.apache.jcp.xml.dsig.internal.dom.DOMReference] (default task-135) The input bytes to the digest operation are null. This may be due to a problem with the Reference URI or its Transforms.
+2021-06-06 22:05:59,607 WARN  [org.keycloak.events] (default task-139) type=LOGIN_ERROR, realmId=pegawai, clientId=https://helpdesk.diskominfo.mojokertokab.go.id/auth/saml/metadata, userId=null, ipAddress=192.168.2.138, error=user_not_found, auth_method=saml, redirect_uri=https://helpdesk.diskominfo.mojokertokab.go.id/auth/saml/callback, code_id=3f8009b9-9b17-484d-90f1-f1471a69a89f, authSessionParentId=3f8009b9-9b17-484d-90f1-f1471a69a89f, authSessionTabId=3L85d0EV7sM
+2021-06-06 22:06:08,670 WARN  [org.keycloak.events] (default task-140) type=LOGIN_ERROR, realmId=pegawai, clientId=https://helpdesk.diskominfo.mojokertokab.go.id/auth/saml/metadata, userId=null, ipAddress=192.168.2.138, error=user_not_found, auth_method=saml, redirect_uri=https://helpdesk.diskominfo.mojokertokab.go.id/auth/saml/callback, code_id=3f8009b9-9b17-484d-90f1-f1471a69a89f, authSessionParentId=3f8009b9-9b17-484d-90f1-f1471a69a89f, authSessionTabId=DB6JZo9En30
+2021-06-06 22:07:11,912 WARN  [org.apache.jcp.xml.dsig.internal.dom.DOMReference] (default task-140) The input bytes to the digest operation are null. This may be due to a problem with the Reference URI or its Transforms.
+2021-06-06 22:07:18,877 WARN  [org.apache.jcp.xml.dsig.internal.dom.DOMReference] (default task-140) The input bytes to the digest operation are null. This may be due to a problem with the Reference URI or its Transforms.
+2021-06-06 22:07:24,812 WARN  [org.apache.jcp.xml.dsig.internal.dom.DOMReference] (default task-140) The input bytes to the digest operation are null. This may be due to a problem with the Reference URI or its Transforms.
+2021-06-06 22:07:39,791 WARN  [org.apache.jcp.xml.dsig.internal.dom.DOMReference] (default task-140) The input bytes to the digest operation are null. This may be due to a problem with the Reference URI or its Transforms.
+2021-06-06 22:07:44,232 WARN  [org.apache.jcp.xml.dsig.internal.dom.DOMReference] (default task-140) The input bytes to the digest operation are null. This may be due to a problem with the Reference URI or its Transforms.
+2021-06-06 22:08:25,172 WARN  [org.apache.jcp.xml.dsig.internal.dom.DOMReference] (default task-140) The input bytes to the digest operation are null. This may be due to a problem with the Reference URI or its Transforms.
+2021-06-06 22:08:29,789 WARN  [org.apache.jcp.xml.dsig.internal.dom.DOMReference] (default task-140) The input bytes to the digest operation are null. This may be due to a problem with the Reference URI or its Transforms.
+2021-06-06 22:14:25,982 WARN  [org.keycloak.events] (default task-139) type=LOGIN_ERROR, realmId=pegawai, clientId=null, userId=null, ipAddress=192.168.2.138, error=invalid_code
+2021-06-06 22:32:24,305 WARN  [org.apache.jcp.xml.dsig.internal.dom.DOMReference] (default task-150) The input bytes to the digest operation are null. This may be due to a problem with the Reference URI or its Transforms.
+2021-06-06 22:32:50,015 WARN  [org.apache.jcp.xml.dsig.internal.dom.DOMReference] (default task-152) The input bytes to the digest operation are null. This may be due to a problem with the Reference URI or its Transforms.
+2021-06-06 22:32:54,061 WARN  [org.apache.jcp.xml.dsig.internal.dom.DOMReference] (default task-152) The input bytes to the digest operation are null. This may be due to a problem with the Reference URI or its Transforms.
+2021-06-06 22:36:33,599 WARN  [org.apache.jcp.xml.dsig.internal.dom.DOMReference] (default task-153) The input bytes to the digest operation are null. This may be due to a problem with the Reference URI or its Transforms.
+2021-06-06 22:36:37,630 WARN  [org.apache.jcp.xml.dsig.internal.dom.DOMReference] (default task-153) The input bytes to the digest operation are null. This may be due to a problem with the Reference URI or its Transforms.
+2021-06-06 22:36:56,834 WARN  [org.keycloak.events] (default task-153) type=LOGIN_ERROR, realmId=pegawai, clientId=e-office.mojokertokab.go.id, userId=0b7a0fb3-f61d-4568-988e-ea9988e5f45f, ipAddress=192.168.2.138, error=invalid_user_credentials, auth_method=openid-connect, auth_type=code, redirect_uri=https://e-office.mojokertokab.go.id/callback, code_id=82486866-8b94-4ea2-b872-79484a724117, username=197104271992031001, authSessionParentId=82486866-8b94-4ea2-b872-79484a724117, authSessionTabId=-7kqpiCVJd8
+2021-06-06 22:43:41,232 WARN  [org.keycloak.events] (default task-154) type=LOGIN_ERROR, realmId=pegawai, clientId=null, userId=null, ipAddress=192.168.2.138, error=client_not_found, reason=Cannot_match_source_hash
+2021-06-06 22:43:46,809 WARN  [org.keycloak.events] (default task-154) type=LOGIN_ERROR, realmId=pegawai, clientId=null, userId=null, ipAddress=192.168.2.138, error=client_not_found, reason=Cannot_match_source_hash
+2021-06-06 22:43:48,077 WARN  [org.keycloak.events] (default task-154) type=LOGIN_ERROR, realmId=pegawai, clientId=e-office.mojokertokab.go.id, userId=null, ipAddress=192.168.2.138, error=user_not_found, auth_method=openid-connect, auth_type=code, redirect_uri=https://e-office.mojokertokab.go.id/callback, code_id=100eb69f-11e6-4a8d-ae48-ab5a27c1917b, username='19780607200801 1021', authSessionParentId=100eb69f-11e6-4a8d-ae48-ab5a27c1917b, authSessionTabId=2X-YPnfsH80
+2021-06-06 22:43:51,520 WARN  [org.keycloak.events] (default task-154) type=LOGIN_ERROR, realmId=pegawai, clientId=null, userId=null, ipAddress=192.168.2.138, error=client_not_found, reason=Cannot_match_source_hash
+2021-06-06 22:43:52,248 WARN  [org.keycloak.events] (default task-154) type=LOGIN_ERROR, realmId=pegawai, clientId=null, userId=null, ipAddress=192.168.2.138, error=client_not_found, reason=Cannot_match_source_hash
+2021-06-06 22:43:55,235 WARN  [org.keycloak.events] (default task-154) type=LOGIN_ERROR, realmId=pegawai, clientId=e-office.mojokertokab.go.id, userId=null, ipAddress=192.168.2.138, error=user_not_found, auth_method=openid-connect, auth_type=code, redirect_uri=https://e-office.mojokertokab.go.id/callback, code_id=100eb69f-11e6-4a8d-ae48-ab5a27c1917b, username='19780607200801 1021', authSessionParentId=100eb69f-11e6-4a8d-ae48-ab5a27c1917b, authSessionTabId=2X-YPnfsH80
+2021-06-06 22:44:07,728 WARN  [org.keycloak.services.managers.AuthenticationManager] (default task-155) Some clients have been not been logged out for user pengguna1 in pegawai realm: https://helpdesk.diskominfo.mojokertokab.go.id/auth/saml/metadata
+2021-06-06 22:44:07,729 WARN  [org.keycloak.services.managers.AuthenticationManager] (default task-155) Some clients have been not been logged out for user pengguna1 in pegawai realm: https://helpdesk.diskominfo.mojokertokab.go.id/auth/saml/metadata
+2021-06-06 22:44:10,558 WARN  [org.keycloak.events] (default task-155) type=LOGIN_ERROR, realmId=pegawai, clientId=e-office.mojokertokab.go.id, userId=null, ipAddress=192.168.2.138, error=user_not_found, auth_method=openid-connect, auth_type=code, redirect_uri=https://e-office.mojokertokab.go.id/callback, code_id=100eb69f-11e6-4a8d-ae48-ab5a27c1917b, username='19780607200801 1021', authSessionParentId=100eb69f-11e6-4a8d-ae48-ab5a27c1917b, authSessionTabId=2X-YPnfsH80
+2021-06-06 22:44:15,217 WARN  [org.keycloak.events] (default task-155) type=LOGIN_ERROR, realmId=pegawai, clientId=null, userId=null, ipAddress=192.168.2.138, error=client_not_found, reason=Cannot_match_source_hash
+2021-06-06 22:44:40,519 WARN  [org.keycloak.events] (default task-155) type=LOGIN_ERROR, realmId=pegawai, clientId=null, userId=null, ipAddress=192.168.2.138, error=client_not_found, reason=Cannot_match_source_hash
+2021-06-06 22:45:06,227 WARN  [org.apache.jcp.xml.dsig.internal.dom.DOMReference] (default task-155) The input bytes to the digest operation are null. This may be due to a problem with the Reference URI or its Transforms.
+2021-06-06 22:45:10,480 WARN  [org.apache.jcp.xml.dsig.internal.dom.DOMReference] (default task-155) The input bytes to the digest operation are null. This may be due to a problem with the Reference URI or its Transforms.
+2021-06-06 22:47:08,337 WARN  [org.keycloak.events] (default task-157) type=LOGIN_ERROR, realmId=pegawai, clientId=e-office.mojokertokab.go.id, userId=null, ipAddress=192.168.2.138, error=user_not_found, auth_method=openid-connect, auth_type=code, redirect_uri=https://e-office.mojokertokab.go.id/callback, code_id=3c754f33-0f0a-4eae-91f1-22dc107c7c76, username=19780607200011021, authSessionParentId=3c754f33-0f0a-4eae-91f1-22dc107c7c76, authSessionTabId=0D1q1t2c5nc
+2021-06-06 22:47:17,321 WARN  [org.keycloak.events] (default task-157) type=LOGIN_ERROR, realmId=pegawai, clientId=null, userId=null, ipAddress=192.168.2.138, error=invalid_redirect_uri
+2021-06-06 22:47:27,673 WARN  [org.keycloak.events] (default task-157) type=LOGIN_ERROR, realmId=pegawai, clientId=null, userId=null, ipAddress=192.168.2.138, error=invalid_redirect_uri
+2021-06-06 22:48:23,386 WARN  [org.keycloak.events] (default task-159) type=LOGIN_ERROR, realmId=pegawai, clientId=null, userId=null, ipAddress=192.168.2.138, error=invalid_redirect_uri
+2021-06-06 22:48:30,089 WARN  [org.keycloak.events] (default task-159) type=LOGIN_ERROR, realmId=pegawai, clientId=null, userId=null, ipAddress=192.168.2.138, error=invalid_redirect_uri
+2021-06-06 22:51:24,180 WARN  [org.apache.jcp.xml.dsig.internal.dom.DOMReference] (default task-160) The input bytes to the digest operation are null. This may be due to a problem with the Reference URI or its Transforms.
+2021-06-06 22:51:28,420 WARN  [org.apache.jcp.xml.dsig.internal.dom.DOMReference] (default task-160) The input bytes to the digest operation are null. This may be due to a problem with the Reference URI or its Transforms.
+2021-06-06 23:27:17,188 WARN  [org.apache.jcp.xml.dsig.internal.dom.DOMReference] (default task-168) The input bytes to the digest operation are null. This may be due to a problem with the Reference URI or its Transforms.
+2021-06-06 23:27:20,352 WARN  [org.apache.jcp.xml.dsig.internal.dom.DOMReference] (default task-168) The input bytes to the digest operation are null. This may be due to a problem with the Reference URI or its Transforms.
+2021-06-06 23:32:54,462 WARN  [org.apache.jcp.xml.dsig.internal.dom.DOMReference] (default task-171) The input bytes to the digest operation are null. This may be due to a problem with the Reference URI or its Transforms.
+2021-06-06 23:32:57,917 WARN  [org.apache.jcp.xml.dsig.internal.dom.DOMReference] (default task-171) The input bytes to the digest operation are null. This may be due to a problem with the Reference URI or its Transforms.
